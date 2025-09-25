@@ -1,2 +1,30 @@
-# Project1_BasicMenu
-This is a simple HTML/CSS project that implements a basic navigation menu. The layout includes:  A navbar for easy navigation  Three links to different sections or pages  A title to represent the page or brand  A logo placed within the navbar  Perfect as a starter template or for learning basic structure and styling of a navigation bar.
+# Basic Menu UI
+
+A simple and clean navigation menu built with **HTML** and **CSS**.
+
+This project is intended as a beginner-friendly layout or boilerplate for building a basic website header. It includes:
+
+- ✅ A responsive **navbar**
+- 🎯 A **logo** image
+- 🏷️ A **title**
+- 🔗 Three navigation **links**
+
+---
+
+## 📷 Preview
+
+*Coming soon – add a screenshot or GIF of your menu here once ready.*
+
+---
+
+## 🚀 Features
+
+- Semantic HTML structure
+- Customizable CSS
+- Lightweight and fast
+- Easy to integrate into other projects
+
+---
+
+## 📁 Project Structure
+
